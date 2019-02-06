@@ -1,0 +1,31 @@
+{
+  "name": "pdfium",
+  "description": "Node.js/iojs/node-webkit native pdfium port",
+  "version": "0.0.1",
+  "homepage": "http://github.com/tojocky/node-pdfium",
+  "author": {
+    "name": "Ion Lupascu",
+    "url": "http://lupascu.net",
+    "email": "ionlupascu@gmail.com"
+  },
+  "contributors": [
+    "Name Lastname <email@server.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tojocky/node-pdfium-native.git"
+  },
+  "devDependencies": {
+    "karma": "^0.12.31"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {},
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ],
+  "main": "./lib/pdfium"
+}
